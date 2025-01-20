@@ -1,6 +1,6 @@
 I'm thrilled to unveil my latest project—a personal portfolio website that showcases my skills and passion for web development. This project has been a labor of love, and I'm excited to share it with you.
 
-# React Restaurant Website
+# REESTAR Restaurant Website
 
 A single-page restaurant website built using HTML and styled with CSS, showcasing the menu,  and contact information.
 
